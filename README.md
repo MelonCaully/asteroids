@@ -1,7 +1,5 @@
 # ========= ASTEROIDS ========= 
 
-## Use the following commands to use the workspace efficiently
-
 Use to make your virtual enviroment:
 
 - "python3 -m venv venv"
