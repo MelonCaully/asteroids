@@ -1,4 +1,4 @@
-<ins> # ========= ASTEROIDS ========= <ins>
+# <ins> ========= ASTEROIDS ========= <ins>
 
 ## Use the following commands to use the workspace efficiently
 
